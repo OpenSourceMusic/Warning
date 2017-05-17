@@ -1,6 +1,9 @@
 # Warning
 Genre - Chiptune
 
+Song Name: Warning
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=XH08RpeGE2o&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU&index=20)
 
 Current Song Version: 1.0
